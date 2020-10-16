@@ -1,1 +1,1 @@
-# java_calc
+# java_playground
